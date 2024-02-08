@@ -1,0 +1,5 @@
+﻿Coca-Cola, 3.00
+Water, 2.50
+Juice, 2.00
+Coffie, 3.50
+Coctails, 5.00

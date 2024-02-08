@@ -1,0 +1,5 @@
+﻿Pizza, 15.00
+Salad, 9.50
+Burger, 12.00
+Mashroom soup, 3.50
+Steak, 20.00
